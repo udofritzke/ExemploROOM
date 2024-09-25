@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity {
     EditText mTextoNomeParaBusca;
     TextView mTextoResultadoBusca;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
